@@ -34,7 +34,7 @@ def generate_answer(query, context):
     formatted_context = "\n".join(context)
 
     prompt = f"""
-You are an expert hospital assistant.
+You are an expert software company assistant.
 Answer ONLY from the given context.
 
 Context:

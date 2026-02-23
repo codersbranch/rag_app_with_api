@@ -8,7 +8,7 @@ from rag_engine import (
     get_available_tags
 )
 
-app = FastAPI(title="Hospital RAG Chatbot API")
+app = FastAPI(title="Software company RAG Chatbot API")
 
 
 # -----------------------------
